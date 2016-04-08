@@ -11,8 +11,8 @@ The content and flow are based on the [webpage](http://interactivepython.org/run
 - Control Structures
 - Exception Handling
 - Object-oriented Programming
-	+ Fraction Class
-	+ Inheritance: Logic Gates and Circuits
+	+ __Fraction__ Class
+	+ __Inheritance__: Logic Gates and Circuits
 
 #### Algorithm Analysis
 - Big-O Notation
