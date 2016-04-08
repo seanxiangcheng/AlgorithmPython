@@ -6,39 +6,60 @@ The content and flow are based on the [webpage](http://interactivepython.org/run
 
 - Built-in Data types 
 	+ Built-in Atomic Data Types: int, float, bool
-	+ Built-in collection 
+	+ Built-in Collection Data Types: list, string, tuple, set, dictionary
+- Input and Output
+- Control Structures
+- Exception Handling
+- Object-oriented Programming
+	+ Fraction Class
+	+ Inheritance: Logic Gates and Circuits
 
 #### Algorithm Analysis
-- Built-in Data types 
-	Built-in Atomic Data Types: int, float, bool
-- Built-in collection 
+- Big-O Notation
+- An  Anagram Detection Example
+	+ Checking off
+	+ Sort and compare
+	+ Brute Force
+	+ Count and Compare
+- List
+- Dictionary
+
 
 
 #### Basic Data Structures
-
-- To understand the abstract data types stack, queue, deque, and list.
-- To be able to implement the ADTs stack, queue, and deque using Python lists.
-- To understand the performance of the implementations of basic linear data structures.
-- To understand prefix, infix, and postfix expression formats.
-- To use stacks to evaluate postfix expressions.
-- To use stacks to convert expressions from infix to postfix.
-- To use queues for basic timing simulations.
-- To be able to recognize problem properties where stacks, queues, and deques are appropriate data structures.
-- To be able to implement the abstract data type list as a linked list using the node and reference pattern.
-- To be able to compare the performance of our linked list implementation with Python’s list implementation.
+- Linear Structure
+- Stack
+- Queue
+- Deque
+- List
+- Unordered List Abstract Data Type
+- Implementing Linked List
+- Implementing Ordered List
 
 
 #### Recursion
 
-- To understand that complex problems that may otherwise be difficult to solve may have a simple recursive solution.
-- To learn how to formulate programs recursively.
-- To understand and apply the three laws of recursion.
-- To understand recursion as a form of iteration.
-- To implement the recursive formulation of a problem.
-- To understand how recursion is implemented by a computer system.
+- Sum of a List
+- Converting an integer to a String in Any Base
+- Sierpinski Triangle
+- Complex Recursive Problems
+- Dynamic Programming
 
 #### Sorting and Searching
 
+- Sequential Search
+- Binary Search
+- Hashing
+	+ Hash Functions
+	+ Collision Resolution
+	+ Implementing the Map Abstract Data Type
+- Sorting
+	+ Bubble Sort
+	+ Selection Sort
+	+ Insertion Sort
+	+ Shell Sort
+	+ Merge Sort
+	+ Quick Sort
 
 
 
